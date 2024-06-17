@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm [Vlad]!
 
-![Welcome GIF](https://media.giphy.com/explore/good-morning-vietnam)
+![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFqcG0zNXUwMWt2cXFwYjU2Y2psODZwMXY0b2FleWc3MG8zZm54cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13kHaMypIX6JcA/giphy.gif)
 
 ## About Me
 
